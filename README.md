@@ -1,4 +1,4 @@
-# Diagnostics-With-AWL
+# Diagnostics-With-AWK
 Self contained GNU AWK Scripts that shows you how to use GNU AWK to to diagnose network issues
 Is a self contained app. The main idea with one tool emulate a web server but be as light as possible.
 Its fairly east to use. 
